@@ -1,5 +1,3 @@
-Next.js: early framework that adopts RSCs
-
 ## Getting Started
 
 First, run the development server:
