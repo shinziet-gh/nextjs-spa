@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Header } from "@/app/header";
+import { Header } from "@/components/header";
 
 export default function Home() {
   console.log("Client page rendered");
